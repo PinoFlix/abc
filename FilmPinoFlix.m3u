@@ -2,5 +2,5 @@
 #EXTINF:-1 IL PACCO
 https://www.dropbox.com/scl/fi/t6wwb7h2eyf6dh8u6qm5w/Il_pacco_11.p4cc0._HD-Altadefinizione01_._2018_.WEBDL.1080p.mp4?rlkey=axqh33t8mqfufubz1wjxdyic4&st=yixeesrn&dl.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="006.png",Italia 1
-https://live3-mediaset-it.akamaized.net/content/hls_clr_xo/live/channel(ch02)/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="049.png",Rai Scuola
+http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-p.m3u8
